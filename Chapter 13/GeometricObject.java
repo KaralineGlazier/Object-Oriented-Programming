@@ -47,8 +47,4 @@ public abstract class GeometricObject {
 	public abstract double getArea();
 	
 	public abstract double getPerimeter();
-	
-	public void howToColor() {
-		System.out.println("Color all four sides");
-	}
 }
